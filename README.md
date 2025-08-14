@@ -21,7 +21,7 @@
 ---
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Farrukh%20Shafqat-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-link)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Farrukh%20Shafqat-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/farrukh-shafqat-39b30a249/)  
 📧 **Email:** farrukhshafqat452@gmail.com  
 [![GitHub](https://img.shields.io/badge/GitHub-farrukh--shafqat-black?style=flat&logo=github)](https://github.com/farrukh-shafqat)
 
